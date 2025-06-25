@@ -13,6 +13,8 @@ here i created my own Fake_mails to identify them
 
 2.[Open Script](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/9224ed2329e6c9b78d4e2bb18cf61ddaa65b2e43/Phishing_Mail_Dataset/Fake_Mail2.txt)
 
+3.[open image](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/d075fcd7ea27548016d6cd7677d61996f0d3701d/Phishing_Mail_Dataset/mail.png)
+
 
 ## 🔍 Phishing Indicators:
 1. *Email Spoofing*: Sender uses a domain resembling PayPal.
@@ -27,7 +29,7 @@ After throughly analysing the mail and got suspecious on it.we can also use the 
 
 1. MXToolBox-[view site](https://mxtoolbox.com/)
    
-## 📷 Screenshots:
+Screenshots:
 ![image alt](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/01a4a9eb8939bf1667ebdddf2cf5afb663e34d5c/Phishing_Mail_Dataset/Screenshot_2025-06-25_06_38_36.png)
 
 ![image alt](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/73dec06ca70ff2bec7b5c41698c6a9e014541bfd/Phishing_Mail_Dataset/Screenshot_2025-06-25_06_36_11.png)
