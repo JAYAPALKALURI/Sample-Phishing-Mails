@@ -11,7 +11,7 @@ There are so many mails available in online site like
   >OpenPhish
   >Kaggle.com........etc
 here i created my own Fake_mails to identify them
-1.
+1.[Open Script](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/9224ed2329e6c9b78d4e2bb18cf61ddaa65b2e43/Phishing_Mail_Dataset/Fake-mail.txt)
 
 
 ## 🔍 Phishing Indicators:
