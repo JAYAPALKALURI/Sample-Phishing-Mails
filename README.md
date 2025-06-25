@@ -15,7 +15,7 @@
 ## 📷 Screenshots:
 (Include screenshot links or embed them here)
 
----
+![image alt](image_url)
 
 ## ✅ Conclusion:
 This email uses common phishing tactics like spoofing, social engineering, and link manipulation to trick users.
