@@ -22,6 +22,11 @@ here i created my own Fake_mails to identify them
 5. *Suspicious Attachment*: A PDF file claiming to be an invoice.
 6. *Header Analysis*: SPF check failed; origin IP does not match PayPal.
 
+## Tools
+After throughly analysing the mail and got suspecious on it.we can also use the Online header Analyzer
+
+1. MXToolBox-[view site](https://mxtoolbox.com/)
+   
 ## 📷 Screenshots:
 ![image alt](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/01a4a9eb8939bf1667ebdddf2cf5afb663e34d5c/Phishing_Mail_Dataset/Screenshot_2025-06-25_06_38_36.png)
 
