@@ -13,7 +13,7 @@
 6. *Header Analysis*: SPF check failed; origin IP does not match PayPal.
 
 ## 📷 Screenshots:
-(Include screenshot links or embed them here)
+![image alt]()
 
 ![image alt](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/73dec06ca70ff2bec7b5c41698c6a9e014541bfd/Phishing_Mail_Dataset/Screenshot_2025-06-25_06_36_11.png)
 
