@@ -4,6 +4,16 @@
 - Subject: "Your Account is Suspended – Urgent Action Required"
 - Claimed Sender: PayPal (support@paypaI.com)
 
+## STEP 
+There are so many mails available in online site like 
+  >github - Phishing Email Corpus
+  >PhishTank
+  >OpenPhish
+  >Kaggle.com........etc
+here i created my own Fake_mails to identify them
+1.
+
+
 ## 🔍 Phishing Indicators:
 1. *Email Spoofing*: Sender uses a domain resembling PayPal.
 2. *Mismatched URL*: Link text says "https://paypal.com" but redirects to "http://scam-link.net".
