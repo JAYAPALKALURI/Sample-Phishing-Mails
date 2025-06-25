@@ -32,5 +32,12 @@ After throughly analysing the mail and got suspecious on it.we can also use the 
 
 ![image alt](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/73dec06ca70ff2bec7b5c41698c6a9e014541bfd/Phishing_Mail_Dataset/Screenshot_2025-06-25_06_36_11.png)
 
+These Online Header Analyzer helps to identify
+ .Identify suspicious links or attachments.
+ .Look for urgent or threatening language in the email body.
+ .Note any mismatched URLs (hover to see real link).
+ .Verify presence of spe ling or grammar errors.
+ .Summarize phishing traits found in the email.
+
 ## ✅ Conclusion:
 This email uses common phishing tactics like spoofing, social engineering, and link manipulation to trick users.
