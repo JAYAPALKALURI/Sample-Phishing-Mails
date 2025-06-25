@@ -6,12 +6,10 @@
 
 ## STEP 
 There are so many mails available in online site like 
-  >github - Phishing Email Corpus
-  >PhishTank
-  >OpenPhish
-  >Kaggle.com........etc
+  >github - Phishing Email Corpus,PhishTank,OpenPhish,Kaggle.com........etc
 here i created my own Fake_mails to identify them
 1.[Open Script](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/9224ed2329e6c9b78d4e2bb18cf61ddaa65b2e43/Phishing_Mail_Dataset/Fake-mail.txt)
+2.[Open Script](https://github.com/JAYAPALKALURI/Sample-Phishing-Mails/blob/9224ed2329e6c9b78d4e2bb18cf61ddaa65b2e43/Phishing_Mail_Dataset/Fake_Mail2.txt)
 
 
 ## 🔍 Phishing Indicators:
